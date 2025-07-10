@@ -1,5 +1,5 @@
-<div style="font-size: 2em; font-weight: bold; text-align: center;">Constitution and Bylaws</div>
-<div style="font-size: 1.5em; font-weight: bold; text-align: center;">Paradise Point Area Improvement Council, Inc.</div>
+<p style="font-size: 2em; font-weight: bold; text-align: center;">Constitution and Bylaws</p>
+<p style="font-size: 1.5em; font-weight: bold; text-align: center;">Paradise Point Area Improvement Council, Inc.</p>
 <br /><br />
 <h3 style="text-align: center; line-height: 0">Article I</h3>
 
