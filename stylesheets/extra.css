@@ -1,0 +1,11 @@
+li {
+    list-style-type: upper-alpha !important;
+}
+
+li li {
+    list-style-type: decimal !important;
+}
+
+li li li {
+    list-style-type: lower-alpha !important;
+}
