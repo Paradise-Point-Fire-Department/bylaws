@@ -1,6 +1,8 @@
 site_name: Paradise Point Area Improvement Council Inc
+
 theme: 
   name: mkdocs
   color_mode: dark
   nav_style: dark
   include_sidebar: false
+extra_css: [stylesheets/extra.css]
