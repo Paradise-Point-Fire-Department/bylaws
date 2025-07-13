@@ -26,6 +26,9 @@ li li {
 li li li {
     list-style-type: lower-alpha !important;
 }
+.nav-item {
+    list-style: none !important;
+}
 article {
     margin-top: 10px;
     margin-bottom: 0px;
