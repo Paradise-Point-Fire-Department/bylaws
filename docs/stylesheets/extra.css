@@ -1,3 +1,20 @@
+h1 {
+    margin: 0 !important;
+    padding: 0 !important;
+    line-height: 1.1 !important;
+}
+h2 {
+    margin-top: 0.1rem !important;
+    margin-bottom: 0.1rem !important;
+    padding: 0 !important;
+    line-height: 1.1 !important;
+}
+h3 {
+    margin-top: 0rem !important;
+    margin-bottom: 0.5rem !important;
+    padding: 0 !important;
+    line-height: 1.1 !important;
+}
 li {
     list-style-type: upper-alpha !important;
 }
@@ -8,4 +25,28 @@ li li {
 
 li li li {
     list-style-type: lower-alpha !important;
+}
+article {
+    margin-top: 10px;
+    margin-bottom: 0px;
+    line-height: 1;
+    font-size: 175%;
+    font-weight: 400;
+    text-align: center;
+}
+desc {
+    display: block;
+    margin-top: 0;
+    margin-bottom: 10px;
+    font-size: 150%;
+    font-weight: 400;
+    font-style: italic;
+    text-align: center;
+}
+section {
+    margin-top: 10px !important;
+    margin-bottom: 10px !important;
+    font-size: 125%;
+    font-weight: 400;
+    text-decoration: underline;
 }
