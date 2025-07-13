@@ -1,6 +1,6 @@
 site_name: Paradise Point Area Improvement Council Inc
-
 theme: 
   name: simplex
-  include_sidebar: false
-extra_css: [stylesheets/extra.css]
+include_sidebar: false
+extra_css: 
+  - stylesheets/extra.css
